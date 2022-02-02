@@ -1,16 +1,16 @@
 # Notepad
 
-##Table of contents
+## Table of contents
 * [General info](#generate-info)
 * [Technologies](#technologies) 
 * [Setup](#setup)
 
-##Generate info 
+## Generate info 
 
 The notepad application will allow you to quickly create a shopping list or a to-do list,
-save recipes or your reflections - it all depends on the category you create
+save recipes or your reflections - it all depends on the category you create.
   
-##Technologies
+## Technologies
 
 * Spring Boot
 * Hibernate
